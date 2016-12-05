@@ -5,6 +5,7 @@ package Module3KonstruktorObjekts;
  */
 public class User {
 
+
     String name;
     int age ;
     String comany;
